@@ -45,7 +45,7 @@ https://mowse.dev/fr/devmath/pandas-add-line/
 ```python
 
 ```
-3.Ajouter une nouvelle ligne avec les informations si dessous dans les colonnes qui correspondes:
+3.Ajouter une nouvelle ligne avec les informations si dessous dans les colonnes qui correspondes:  
 'Yass', 'Paris', 'France', 10, 10
 ```python
 
