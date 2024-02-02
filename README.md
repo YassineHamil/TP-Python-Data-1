@@ -1,5 +1,5 @@
 # TP-Python-Data-1
-## Introduction to Basic Python Pandas
+## Introduction
 
 Salut ! Si tu es ici, c'est que tu veux plonger dans les bases de Pandas. Ce TP est une série de petits exercices conçus pour t'entraîner, et il y aura même une suite avec des données à explorer en utilisant Seaborn.
 
