@@ -6,7 +6,11 @@ Salut ! Si tu es ici, c'est que tu veux plonger dans les bases de Pandas. Ce TP 
 L'objectif ici est de découvrir les réponses par toi-même en effectuant des recherches sur Internet (lecture de la documentation, articles, blogs, etc.). L'idée est de ne pas recourir à ChatGPT ou autres, car cela rendra l'exercice plus enrichissant.
 
 Je vais partager quelques liens qui pourraient t'être utiles. Allez, bon courage ! 🚀
-
+-----------------------------------------------------
+# Liens
+https://github.com/YassineHamil/TP-Python-Data-1
+https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html
+https://mowse.dev/fr/devmath/pandas-add-line/
 -----------------------------------------------------
 ## Installation des Dépendances
 
